@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Conall66
-- 🌱 I’m currently studying design engineering at Imperial College London
-- 💞️ I’m looking to collaborate on programming projects in Python, MatLab, JavaScript
+- Hi, I’m Conall
+- 4th year of my Integrated-Masters Design Engineering course at Imperial College London
+- Former research and development engineer at Kensa Heat Pumps and TG0
+- Experience programming in python, Javascript (with HTML, CSS), and MATLAB
+- Currently working on advancing FSPMs in an architectural context to accelerate regenerative urbanisation
 
 <!---
 Conall66/Conall66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
