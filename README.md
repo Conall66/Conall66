@@ -1,7 +1,7 @@
 - Hi, I’m Conall
 - 4th year of my Integrated-Masters Design Engineering course at Imperial College London
 - Former research and development engineer at Kensa Heat Pumps and TG0
-- Experience programming in python, Javascript (with HTML, CSS), and MATLAB
+- Experience programming in python, Javascript (with HTML, CSS), R and MATLAB
 - Currently working on advancing FSPMs in an architectural context to accelerate regenerative urbanisation
 
 <!---
